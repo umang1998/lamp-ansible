@@ -1,8 +1,0 @@
----
-# handlers file for db
-
-- name: restart mysql
-  service: name=mysqld state=restarted
-
-- name: restart iptables
-  service: name=iptables state=restarted

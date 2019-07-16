@@ -1,5 +1,0 @@
-mysqlservice: mysqld
-mysql_port: [MYSQL PORT]
-dbuser: [DB USER]
-dbname: [DB NAME]
-userpassword: [PASSWORD]
